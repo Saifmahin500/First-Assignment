@@ -41,10 +41,12 @@ h6{
 
 }
 .heading-image{
-    width: 580px;
-    height: 695px;
+    width: 500px;
+    /* height: 695px; */
+    padding: 50px;
     margin-right: 50px;
-    margin-bottom: 0px;
+    margin-bottom: 0;
+    margin-top: 15px;
     
 }
 .btn-primary{
@@ -99,7 +101,7 @@ main{
 }
 .p10{
     padding: 55px 10px ;
-   
+ 
 }
 .p11{
     padding: 25px 10px ;
@@ -145,8 +147,9 @@ h2{
 .rosetob{
     width: 250px;
     margin: 50px;
-    padding: 20px;
+    padding: 20px ;
     margin-right: 150px;
+    
 }
 span{
     color: #E55473;
@@ -178,7 +181,7 @@ span{
     margin: auto;
     margin: 120px 180px ;
     padding: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 90px;
     border-radius: 10px;
     background-image: url('Flower Asset/Rectangle 9.png');
     background-repeat: no-repeat;
@@ -218,5 +221,6 @@ span{
     color: white;
     text-align: center;
     padding: 70px 0;
+    
     
 }
